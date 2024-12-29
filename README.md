@@ -1,9 +1,9 @@
 ## Participatory Neighbourhood Planning for the ‘Brown to Green’ Transition in Tyneside
 
-*Project website*
+***Project website***
  * https://hosting.northumbria.ac.uk/brown-to-green/
 
-*Other links*
+***Other links***
 ### Gateway to Research
  * https://gtr.ukri.org/projects?ref=AH%2FY000250%2F1 <br />
 ### Articles & News report
